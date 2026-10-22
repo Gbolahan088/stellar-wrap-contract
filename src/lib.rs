@@ -1022,6 +1022,8 @@ mod stake_test;
 #[cfg(test)]
 mod storage_invariants_test;
 #[cfg(test)]
+mod storage_cost_test;
+#[cfg(test)]
 mod test;
 #[cfg(test)]
 mod test_utils;
